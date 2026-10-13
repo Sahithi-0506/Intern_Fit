@@ -357,8 +357,8 @@ No license has been specified yet. Add a `LICENSE` file before permitting reuse,
 **Sahithi Achyutha Ishwarya Kalla**  
 Student Developer | InternFit Project
 
-- GitHub: [your-github-username](https://github.com/Sahithi-0506)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/sahithi-achyutha-ishwarya-kalla-317799319/)
+- GitHub: (https://github.com/Sahithi-0506)
+- LinkedIn: (https://www.linkedin.com/in/sahithi-achyutha-ishwarya-kalla-317799319/)
 
 ---
 
